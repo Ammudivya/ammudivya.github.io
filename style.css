@@ -192,7 +192,6 @@ ul.submenu li a.active {
 /* //menu */
 /*-- banner-- */
 .banner-left-side {
-    background: url(../b1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
